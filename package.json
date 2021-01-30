@@ -1,0 +1,14 @@
+{
+  "name": "odin",
+  "version": "1.0.0",
+  "description": "Bot de telegram en Node",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "telegraf": "^3.36.0"
+  }
+}
